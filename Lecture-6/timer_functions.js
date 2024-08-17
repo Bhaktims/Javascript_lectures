@@ -18,3 +18,13 @@ console.log("hi")  // first main thread will run then time function will run, ev
 
 console.timeEnd('timer');
 
+
+
+
+
+
+
+
+
+
+
