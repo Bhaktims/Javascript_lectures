@@ -10,3 +10,6 @@ console.log(arr);
 arr.length=2; //// if u decrease the length the array will truncate
 console.log(arr);
 
+let x = '123'; let y = Number(x); console.log(typeof y);
+
+let a = [1, 2]; let b = [...a]; b[0] = 10; console.log(a[0]);
